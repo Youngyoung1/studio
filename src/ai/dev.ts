@@ -1,1 +1,2 @@
-// Flows will be imported for their side effects in this file.
+import '@/ai/flows/generate-video-tags.ts';
+import '@/ai/flows/generate-video-summary.ts';
