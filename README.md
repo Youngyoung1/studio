@@ -1,4 +1,4 @@
-# React-tailwind-CSS
+# React-tailwind-JS
 
 웹 베타 서비스
 
